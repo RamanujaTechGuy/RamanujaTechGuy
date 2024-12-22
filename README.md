@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RamanujaTechGuy
-- 👀 I’m interested in ...
+- 👀 I’m interested in Exploring the data
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning
 - 📫 Reachout to me by email-Ramanuja.uta@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
