@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning
 - 📫 Reachout to me by email-Ramanuja.uta@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+
 
 <!---
 RamanujaTechGuy/RamanujaTechGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
